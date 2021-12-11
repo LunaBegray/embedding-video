@@ -1,0 +1,13 @@
+.container{
+    background-color: white;
+    border:black solid 3px
+}
+.nav{
+    background-color: burlywood;
+}
+.video{
+    background-color:darkkhaki;
+}
+.sidebar{
+    background:honeydew;
+}
