@@ -1,13 +1,26 @@
 .container{
     background-color: white;
-    border:black solid 3px
+    border:black solid 3px;
+    height: 900px;
+    width:auto;
 }
 .nav{
     background-color: burlywood;
+    height:100px;
 }
 .video{
     background-color:darkkhaki;
+    height:600px;
+    width:800px;
 }
 .sidebar{
     background:honeydew;
+    height:800px;
+    width:400px;
+}
+.videosection{
+    display:inline;
+    display:flex;
+    column-gap: 40px;
+    justify-content: center;
 }
