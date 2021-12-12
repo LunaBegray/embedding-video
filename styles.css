@@ -24,3 +24,17 @@
     column-gap: 40px;
     justify-content: center;
 }
+.videoContainer{
+    height:150;
+    width:400px;
+    display:flex;
+}
+.img{
+    height:150px;
+    width:200px;
+    border:black solid 1px; 
+}
+.text{
+    height:150px;
+    width:200px;
+}
